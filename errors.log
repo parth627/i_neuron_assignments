@@ -1,0 +1,5 @@
+2023-09-27 01:09:53,170 - ERROR - An exception occurred: division by zero
+Traceback (most recent call last):
+  File "C:\Users\parth\AppData\Local\Temp\ipykernel_1168\777699724.py", line 18, in <cell line: 17>
+    result = 10 / 0
+ZeroDivisionError: division by zero
